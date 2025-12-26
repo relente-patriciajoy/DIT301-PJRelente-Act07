@@ -1,0 +1,10 @@
+import 'package:flutter/material.dart';
+
+class GalleryTab extends StatelessWidget {
+  const GalleryTab({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return const Center(child: Text('Gallery'));
+  }
+}
